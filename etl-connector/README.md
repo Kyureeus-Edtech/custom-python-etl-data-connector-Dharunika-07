@@ -56,7 +56,7 @@ COLLECTION_NAME=test_data
 ```json
 {
 
-  "_id": "ObjectId("...")",
+  "_id": "ObjectId(...)",
   "pulse_id": "5a3b9c8d7e6f5g4h3i2j1k",
   "name": "Mirai Botnet Activity",
   "description": "Recent Mirai C2 servers and targets",
@@ -64,7 +64,7 @@ COLLECTION_NAME=test_data
   "tags": ["botnet", "iot", "ddos"],
   "indicators_count": 27,
   "references": ["https://example.com/report"],
-  "ingestion_time": "ISODate("2023-11-20T14:32:45.123Z")",
+  "ingestion_time": "ISODate(2023-11-20T14:32:45.123Z)",
   "otx_modified": "2023-11-18T08:30:00Z"
 
 }
